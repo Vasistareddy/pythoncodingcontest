@@ -1,6 +1,6 @@
 1. Language Used: Python
 2. Github link for the programs and questions:
-
+https://github.com/Vasistareddy/pythoncodingcontest.git
 
 3. Go to the respective directory in the command prompt and type the below command
 
