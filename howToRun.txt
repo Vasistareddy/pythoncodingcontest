@@ -1,0 +1,32 @@
+1. Language Used: Python
+2. Github link for the programs and questions:
+
+
+3. Go to the respective directory in the command prompt and type the below command
+
+        for reverseoddwords.py-----> python reverseoddwords.py
+        for integerarray.py....> python integerarray.py
+        
+
+4. Test Cases:
+    For reverseoddwords.py
+        a. input:get busy living or get busy dying
+           	output: P l e a s e   e n d   t h e   l i n e   w i t h   f u l l s t o p.
+		b. input:get busy living or get busy dying.
+			output:get ysub living ro get ysub dying.
+        
+        b. input:this program consistsofdifferentmethods.
+           	output:each word should not exceed the length 15
+        
+    For integerarray.py
+    
+        a. input:[1,2,3,4,5]
+           output:[14, 13, 12, 11, 10]
+
+           
+        b. input:[1]
+           output:please enter the integer input and size morethan one and not exceeding 100
+        
+        c: input:[1,2,3,4,5,6,7,8,9,1,2,3,4,5,6,7,8,9,1,2,3,4,5,6,7,8,9,1,2,3,4,5,6,7,8,9,1,2,3,4,5,6,7,8,9,1,2,3,4,5,6,7,8,9,1,2,3,4,5,6,7,8,9,1,2,3,4,5,6,7,8,9,1,2,3,4,5,6,7,8,9,1,2,3,4,5,6,7,8,9,1,2,3,4,5,6,7,8,9,1,2,3,4,5,6,7,8,9,1,2,3,4,5,6,7,8,9,1,2,23,4,5,6,7,8,9]
+           
+           output:please enter the integer input and size morethan one and not exceeding 100     

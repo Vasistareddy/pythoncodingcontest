@@ -1,0 +1,23 @@
+def integerarr(listarray):
+	out = []
+	for i in listarray:
+		sum1 = 0
+		for j in range(len(listarray)):
+			sum1 = sum1 + listarray[j]
+		sum1 = sum1 - i
+		out.append(sum1)
+	return out
+
+
+
+if __name__ == "__main__":
+	inputlist = raw_input("enter the list of numbers")
+	#print inputlist
+	e_input = eval(inputlist)
+	print e_input
+
+	if ((len(e_input) > 1) and (len(e_input) <=100)):
+		output = integerarr(e_input)
+		print output
+	else:
+		print "please enter the integer input and size morethan one"
